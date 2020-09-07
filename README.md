@@ -14,8 +14,7 @@ I'm from Brazil (BR), living and working as a Web Developer in Porto, Portugal (
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ashraf = {
-    pronouns: "He" | "Him",
+const ambulcao = {
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
         backEnd: ["nodejs", "express", "php"],
