@@ -1,35 +1,5 @@
-### Hi there 👋
+👨‍💻 Guilherme Orcezi
+Hello 👋
+My name is Guilherme Orcezi, I'm from Brazil (🇧🇷) and I'm 20. I'm studying Systems Analysis and Development, interested in fullstack technology. I've been studying a lot about NodeJS and React, enjoying everything that wonderful Javascript has to offer, as I see a promising future for this stack with React Native on mobile. Student of the 13th class of Rocketseat's GoStack bootcamp.
 
-<!--
-**ambulcao/ambulcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-###<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://dev.to/aryclenio/">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://fb.com/aryxb">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Would you like to find me?
