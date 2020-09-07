@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+###<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
