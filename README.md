@@ -3,10 +3,11 @@
 ## I'm, Alexandre Bulcão 
 ## Fullstack Developer Jr 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
+I'm from Brazil (🇧🇷). Graduated from Unip - Universidade Paulista in (Systems Analysis and Development), student from Unigran Europa in (Software Engineering), interested in fullstack technology. I have studied a lot about NodeJS, React, ReactJS, React-Native, AngularJS and VUE, taking advantage of everything that Javascript has to offer.
+
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ambulcao/)](https://twitter.com/ambulcao/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexandre-bulcão-141780101)](https://linkedin.com/in/alexandre-bulcão-141780101)
+[![](https://img.shields.io/badge/Gmail-ambulcao@gmail.com-red)](mailto:ambulcao@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
