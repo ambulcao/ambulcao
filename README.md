@@ -11,7 +11,7 @@ I'm from Brazil (BR), living and working as a Web Developer in Porto, Portugal (
 [![](https://img.shields.io/badge/Gmail-ambulcao@gmail.com-red)](mailto:ambulcao@gmail.com)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 👨‍💻 A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 💻 A little more about me...  
 
 ```javascript
 const ambulcao = {
