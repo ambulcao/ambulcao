@@ -3,6 +3,7 @@
 ## I'm, Alexandre Bulcão 
 ## Frontend Developer 👨‍💻
 
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ambulcao/)](https://twitter.com/ambulcao/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ambulcao)](https://github.com/ambulcao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexandre-bulcão-141780101)](https://linkedin.com/in/alexandre-bulcão-141780101)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ambulcao@gmail.com)](mailto:ambulcao@gmail.com)
@@ -10,7 +11,20 @@
 
 I'm from Brazil (BR), living and working as a Web Developer in Porto, Portugal (PT). Graduated from Unip - Universidade Paulista in (Systems Analysis and Development), interested in fullstack technology. I have studied a lot about NodeJS, React, ReactJS, React-Native, AngularJS and VUE, taking advantage of everything that Javascript has to offer.
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ambulcao/)](https://twitter.com/ambulcao/)
+**Tools:**
+
+[![Linux Mint Badge](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white&link=https://github.com/brunoemferreira)](https://)
+[![VsCode Badge](https://img.shields.io/badge/-VsCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&link=https://github.com/brunoemferreira)](https://code.visualstudio.com/)
+[![Eclipse Badge](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white&link=https://github.com/brunoemferreira)](https://)
+[![Android Studio Badge](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white&link=https://github.com/brunoemferreira)](https://)
+[![Insomnia Badge](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white&link=https://github.com/brunoemferreira)](https://)
+[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&link=https://github.com/brunoemferreira)](https://)
+[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://github.com/brunoemferreira)](https://)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/brunoemferreira)](https://)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunoemferreira)](https://)
+
+**Always Learning:**
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexandre-bulcão-141780101)](https://linkedin.com/in/alexandre-bulcão-141780101)
 [![](https://img.shields.io/badge/Gmail-ambulcao@gmail.com-red)](mailto:ambulcao@gmail.com)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)](#)
