@@ -9,6 +9,12 @@ I'm from Brazil (BR), living and working as a Web Developer in Porto, Portugal (
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ambulcao/)](https://twitter.com/ambulcao/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexandre-bulcão-141780101)](https://linkedin.com/in/alexandre-bulcão-141780101)
 [![](https://img.shields.io/badge/Gmail-ambulcao@gmail.com-red)](mailto:ambulcao@gmail.com)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](#)
+[![React Badge](https://img.shields.io/badge/-React-282c33?style=flat&logo=react&logoColor=61DAFB)](#)
+[![React Native Badge](https://img.shields.io/badge/-React_Native-silver?&style=flat&logo=react&logoColor=61DAFB)](#)
+[![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)](#)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
 
 
 💻 A little more about me...  
