@@ -25,14 +25,27 @@ I'm from Brazil (BR), living and working as a Web Developer in Porto, Portugal (
 
 **Always Learning:**
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexandre-bulcão-141780101)](https://linkedin.com/in/alexandre-bulcão-141780101)
-[![](https://img.shields.io/badge/Gmail-ambulcao@gmail.com-red)](mailto:ambulcao@gmail.com)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/-React-282c33?style=flat&logo=react&logoColor=61DAFB)](#)
 [![React Native Badge](https://img.shields.io/badge/-React_Native-silver?&style=flat&logo=react&logoColor=61DAFB)](#)
 [![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)](#)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
+
+![Delphi Badge](https://img.shields.io/badge/-Delphi-c14438?style=flat-square&logoColor=white&link=mailto:brunoemf@gmail.com)
+![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white&link=https://github.com/brunoemferreira)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=https://github.com/brunoemferreira)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white&link=https://github.com/brunoemferreira)
+![NodeJs Badge](https://img.shields.io/badge/-Node.Js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://github.com/brunoemferreira)
+![React.JS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/brunoemferreira)
+![Java Badge](https://img.shields.io/badge/-Java-c14438?style=flat-square&logo=Java&logoColor=white&link=https://github.com/brunoemferreira)
+![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://github.com/brunoemferreira)
+![Mongo Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/brunoemferreira)
+![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white&link=https://github.com/brunoemferreira)
+![MySql Badge](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=MySql&logoColor=white&link=https://github.com/brunoemferreira)
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/brunoemferreira)
+![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
+
 
 
 💻 A little more about me...  
