@@ -3,6 +3,10 @@
 ## I'm, Alexandre Bulcão 
 ## Frontend Developer 👨‍💻
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ambulcao)](https://github.com/ambulcao)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexandre-bulcão-141780101)](https://linkedin.com/in/alexandre-bulcão-141780101)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ambulcao@gmail.com)](mailto:ambulcao@gmail.com)
+[![Skype Badge](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white&link=mailto:ambulcao@gmail.com)](https://join.skype.com/invite/EZxGNG4S9il2)
 
 I'm from Brazil (BR), living and working as a Web Developer in Porto, Portugal (PT). Graduated from Unip - Universidade Paulista in (Systems Analysis and Development), interested in fullstack technology. I have studied a lot about NodeJS, React, ReactJS, React-Native, AngularJS and VUE, taking advantage of everything that Javascript has to offer.
 
