@@ -32,7 +32,7 @@ I'm from Brazil (BR), living and working as a Web Developer in Porto, Portugal (
 [![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)](#)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
 
-![Delphi Badge](https://img.shields.io/badge/-Delphi-c14438?style=flat-square&logoColor=white&link=mailto:brunoemf@gmail.com)
+/*![Delphi Badge](https://img.shields.io/badge/-Delphi-c14438?style=flat-square&logoColor=white&link=mailto:brunoemf@gmail.com)*/
 ![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white&link=https://github.com/brunoemferreira)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=https://github.com/brunoemferreira)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white&link=https://github.com/brunoemferreira)
