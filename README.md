@@ -32,8 +32,6 @@ I'm from Brazil (BR), living and working as a Web Developer in Porto, Portugal (
 [![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)](#)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
 ![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white&link=https://github.com/ambulcao)
-![NodeJs Badge](https://img.shields.io/badge/-Node.Js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://github.com/ambulcao)
-![React.JS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/ambulcao)
 ![Java Badge](https://img.shields.io/badge/-Java-c14438?style=flat-square&logo=Java&logoColor=white&link=https://github.com/ambulcao)
 ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://github.com/ambulcao)
 ![Mongo Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/ambulcao)
