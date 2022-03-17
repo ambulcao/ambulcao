@@ -66,8 +66,10 @@ const ambulcao = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code></br>
+<code><img height="200" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"></code>
 
 ---
 ⭐️ From [@ambulcao](https://github.com/ambulcao)
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+
+
