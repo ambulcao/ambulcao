@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ambulcao@gmail.com)](mailto:ambulcao@gmail.com)
 [![Skype Badge](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white&link=mailto:ambulcao@gmail.com)](https://join.skype.com/invite/aB0hz6dxd15J)
 
-I'm from Brazil (BR), living and working as a Web Developer in Porto, Portugal (PT). Graduated from Unip - Universidade Paulista in (Systems Analysis and Development), interested in fullstack technology. I have studied a lot about NodeJS, React, ReactJS, React-Native, AngularJS and VUE, taking advantage of everything that Javascript has to offer.
+I'm from Brazil, living and working as Junior Fullstack Developer at Aluclass in Porto, Portugal. Graduated from Unip - Universidade Paulista in (Systems Analysis and Development). I have studied a lot about Node, React, React-Native, AngularJS and VUE, taking advantage of everything that Javascript has to offer.
 
 **Tools:**
 
@@ -32,11 +32,11 @@ I'm from Brazil (BR), living and working as a Web Developer in Porto, Portugal (
 [![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)](#)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
 ![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white&link=https://github.com/ambulcao)
-![Java Badge](https://img.shields.io/badge/-Java-c14438?style=flat-square&logo=Java&logoColor=white&link=https://github.com/ambulcao)
+<!--![Java Badge](https://img.shields.io/badge/-Java-c14438?style=flat-square&logo=Java&logoColor=white&link=https://github.com/ambulcao)-->
 ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://github.com/ambulcao)
 ![Mongo Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/ambulcao)
 ![MySql Badge](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=MySql&logoColor=white&link=https://github.com/ambulcao)
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
+<!--![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;-->
 
 
 
