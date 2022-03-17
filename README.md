@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## I'm, Alexandre Bulcão 
-## Junior Fullstack Developer at Aluclass 👨‍💻
+## I work at Aluclass Company as Junior Fullstack Developer 👨‍💻
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ambulcao/)](https://twitter.com/ambulcao/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ambulcao)](https://github.com/ambulcao)
@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ambulcao@gmail.com)](mailto:ambulcao@gmail.com)
 [![Skype Badge](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white&link=mailto:ambulcao@gmail.com)](https://join.skype.com/invite/aB0hz6dxd15J)
 
-I'm from Brazil, living and working as Junior Fullstack Developer at Aluclass in Porto, Portugal. Graduated from Unip - Universidade Paulista in (Systems Analysis and Development). I have studied a lot about Node, React, React-Native, AngularJS and VUE, taking advantage of everything that Javascript has to offer.
+I'm from Brazil, currently I live and work in Porto-Portugal. Graduated from Unip - Universidade Paulista in (System Analysis and Development). I really enjoy learning about the Node, React, React-Native, AngularJS and VUE stacks, and above all, enjoying what Javascript has to offer. In my spare time I like to play games and look for some waves in the Surf. 
 
 **Tools:**
 
