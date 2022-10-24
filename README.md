@@ -1,4 +1,5 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
+![Hello](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 ## I'm, Alexandre Bulcão 
 ## I work at Aluclass Company as Fullstack Developer 👨‍💻
@@ -8,6 +9,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexandre-bulcão-141780101)](https://linkedin.com/in/alexandre-bulcão-141780101)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ambulcao@gmail.com)](mailto:ambulcao@gmail.com)
 [![Skype Badge](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white&link=mailto:ambulcao@gmail.com)](https://join.skype.com/invite/aB0hz6dxd15J)
+[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&color=14274e&link=https://https://app.rocketseat.com.br/me/alexandre-bulcao-1566654228)](https://app.rocketseat.com.br/me/alexandre-bulcao-1566654228)
+[![CodeWars Badge](https://img.shields.io/badge/-CodeWars-6633cc?style=flat-square&logo=Codewars&color=14274e&link=https://www.codewars.com/users/ambulcao)](www.codewars.com/users/ambulcao)
 
 I'm from Brazil, currently I live and work in Porto-Portugal. Graduated from Unip - Universidade Paulista in (System Analysis and Development). I really enjoy learning about the Node, React, React-Native, AngularJS and VUE stacks, and above all, enjoying what Javascript has to offer. In my spare time I like to play games and look for some waves in the Surf. 
 
@@ -48,16 +51,19 @@ const ambulcao = {
     technologies:{
         backEnd: ["nodejs", "express", "php"],
         fronEnd: ["AngularJS, React, ReactJs"],
-        mobileApp: ["React-Native", "Express"],
-        database: ["mongo","mySql","SQL-Server"],
+        mobileApp: ["React-Native", "Expo"],
+        database: ["mongoDB","mariaDB","mySQL","PostgreSQL","SQL-Server"],
     },
 }
 ```
 
+<h4 align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</h4>
 
+<h4 align="center"> 
 ![ambulcao github stats](https://github-readme-stats.vercel.app/api?username=ambulcao&show_icons=true&theme=merko)
-
+</h4>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
