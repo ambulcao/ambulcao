@@ -2,7 +2,7 @@
 ![Hello](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 ## I'm, Alexandre Bulcão 
-## I work at Aluclass Company as Fullstack Developer 👨‍💻
+## I currently work at Hospital Albert Einstein as a Fullstack Developer 👨‍💻
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ambulcao/)](https://twitter.com/ambulcao/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ambulcao)](https://github.com/ambulcao)
@@ -12,7 +12,8 @@
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&color=14274e&link=https://https://app.rocketseat.com.br/me/alexandre-bulcao-1566654228)](https://app.rocketseat.com.br/me/alexandre-bulcao-1566654228)
 [![CodeWars Badge](https://img.shields.io/badge/-CodeWars-6633cc?style=flat-square&logo=Codewars&color=14274e&link=https://www.codewars.com/users/ambulcao)](www.codewars.com/users/ambulcao)
 
-I'm from Brazil, currently I live and work in Porto-Portugal. Graduated from Unip - Universidade Paulista in (System Analysis and Development). I really enjoy learning about the Node, React, React-Native, AngularJS and VUE stacks, and above all, enjoying what Javascript has to offer. In my spare time I like to play games and look for some waves in the Surf. 
+I'm from Brazil and currently living and working in Manaus. I graduated in Systems Analysis and Development from Universidade Paulista (UNIP). 
+I really enjoy learning about the Node, React, React-Native, AngularJS and VUE stacks, and above all, enjoying what Javascript has to offer. In my spare time I like to play games and look for some waves in the Surf. 
 
 **Tools:**
 
